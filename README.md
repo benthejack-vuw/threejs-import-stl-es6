@@ -1,3 +1,3 @@
 # ThreeJS-export-STL-es6
 
-THIS IS SIMPLY A REPACKAGING OF three-js-export-stl for use with npm, typescript, and es6 imports/exports
+this is just a re-packaging of <a href"https://www.npmjs.com/package/threejs-export-stl">threejs-export-stl</a> for use with npm, typescript, and es6 imports/exports.
